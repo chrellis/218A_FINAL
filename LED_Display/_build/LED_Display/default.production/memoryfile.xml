@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="/Users/chenaultellis/MPLABProjects/LED_Display/out/LED_Display/production/default-production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>263312</length>                 
+      <used>30134</used>                     
+      <free>233178</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>65536</length>                 
+      <used>4124</used>                     
+      <free>61412</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

@@ -1,0 +1,14 @@
+{
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}/_build/LED_Display/default",
+    "mplab.clangd.arguments": [
+        "--header-insertion=never"
+    ],
+    "mplab.clangd.path": "/Applications/microchip/xc32/v6.00/bin/xc32-clangd",
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "gdbtarget",
+        "mplab-core-da"
+    ]
+}

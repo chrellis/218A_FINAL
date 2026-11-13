@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/chenaultellis/MPLABProjects/LED_Display/_build/LED_Display/default.production",
+  "command": "/Applications/microchip/xc32/v6.00/bin/xc32-gcc -DXPRJ_default=default -I/Users/chenaultellis/MPLABProjects/LED_Display/cmake/LED_Display/default.production/../../../Src/displayDriver -I/Users/chenaultellis/MPLABProjects/LED_Display/cmake/LED_Display/default.production/../../../Src/Images -I/Users/chenaultellis/MPLABProjects/LED_Display/cmake/LED_Display/default.production/../../../Src/Fonts -x c -fdiagnostics-color=always -g -x c -c -mprocessor=32MX170F256B -mdfp=/Users/chenaultellis/.mchp_packs/Microchip/PIC32MX_DFP/1.7.380 -o CMakeFiles/LED_Display_default_default_XC32_compile.dir/Users/chenaultellis/MPLABProjects/LED_Display/Src/Examples/display_example1.c.o -c /Users/chenaultellis/MPLABProjects/LED_Display/Src/Examples/display_example1.c",
+  "file": "/Users/chenaultellis/MPLABProjects/LED_Display/Src/Examples/display_example1.c",
+  "output": "/Users/chenaultellis/MPLABProjects/LED_Display/_build/LED_Display/default.production/CMakeFiles/LED_Display_default_default_XC32_compile.dir/Users/chenaultellis/MPLABProjects/LED_Display/Src/Examples/display_example1.c.o"
+},
+{
+  "directory": "/Users/chenaultellis/MPLABProjects/LED_Display/_build/LED_Display/default.production",
+  "command": "/Applications/microchip/xc32/v6.00/bin/xc32-gcc -DXPRJ_default=default -I/Users/chenaultellis/MPLABProjects/LED_Display/cmake/LED_Display/default.production/../../../Src/displayDriver -I/Users/chenaultellis/MPLABProjects/LED_Display/cmake/LED_Display/default.production/../../../Src/Images -I/Users/chenaultellis/MPLABProjects/LED_Display/cmake/LED_Display/default.production/../../../Src/Fonts -x c -fdiagnostics-color=always -g -x c -c -mprocessor=32MX170F256B -mdfp=/Users/chenaultellis/.mchp_packs/Microchip/PIC32MX_DFP/1.7.380 -o CMakeFiles/LED_Display_default_default_XC32_compile.dir/Users/chenaultellis/MPLABProjects/LED_Display/Src/displayDriver/displayDriver.c.o -c /Users/chenaultellis/MPLABProjects/LED_Display/Src/displayDriver/displayDriver.c",
+  "file": "/Users/chenaultellis/MPLABProjects/LED_Display/Src/displayDriver/displayDriver.c",
+  "output": "/Users/chenaultellis/MPLABProjects/LED_Display/_build/LED_Display/default.production/CMakeFiles/LED_Display_default_default_XC32_compile.dir/Users/chenaultellis/MPLABProjects/LED_Display/Src/displayDriver/displayDriver.c.o"
+},
+{
+  "directory": "/Users/chenaultellis/MPLABProjects/LED_Display/_build/LED_Display/default.production",
+  "command": "/Applications/microchip/xc32/v6.00/bin/xc32-gcc -DXPRJ_default=default -I/Users/chenaultellis/MPLABProjects/LED_Display/cmake/LED_Display/default.production/../../../Src/displayDriver -I/Users/chenaultellis/MPLABProjects/LED_Display/cmake/LED_Display/default.production/../../../Src/Images -I/Users/chenaultellis/MPLABProjects/LED_Display/cmake/LED_Display/default.production/../../../Src/Fonts -x c -fdiagnostics-color=always -g -x c -c -mprocessor=32MX170F256B -mdfp=/Users/chenaultellis/.mchp_packs/Microchip/PIC32MX_DFP/1.7.380 -o CMakeFiles/LED_Display_default_default_XC32_compile.dir/Users/chenaultellis/MPLABProjects/LED_Display/main.c.o -c /Users/chenaultellis/MPLABProjects/LED_Display/main.c",
+  "file": "/Users/chenaultellis/MPLABProjects/LED_Display/main.c",
+  "output": "/Users/chenaultellis/MPLABProjects/LED_Display/_build/LED_Display/default.production/CMakeFiles/LED_Display_default_default_XC32_compile.dir/Users/chenaultellis/MPLABProjects/LED_Display/main.c.o"
+}
+]
